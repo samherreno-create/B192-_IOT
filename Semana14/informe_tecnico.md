@@ -1,6 +1,6 @@
 # Informe Técnico: Almacenamiento Avanzado de Datos IoT con Adafruit IO y SQLite
 
-**Estudiante:** Julian Gutiérrez (completar con los integrantes del grupo)
+**Estudiante:** Julian Gutiérrez Samuel Herreño
 **Curso:** Internet de las Cosas (IoT) - Semana 14
 **Sustentación:** Viernes 13 de noviembre de 2026, 10:30 a. m.
 
