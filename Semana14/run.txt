@@ -1,0 +1,7 @@
+@echo off
+set AIO_USERNAME=JulianGtzx
+set AIO_KEY=PEGA_AQUI_TU_AIO_KEY
+set AIO_FEEDS=temperatura,humedad,luminosidad
+set DB_PATH=C:\proyecto\datos\sensores.db
+set INTERVALO=30
+py C:\proyecto\ingesta.py
